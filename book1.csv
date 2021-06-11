@@ -1,0 +1,12 @@
+Product Code,Category Code,Product Name,Price,Quantity,Import Date,Sale Date,Expiration Date,Product Description
+F001,Fruit,Apple,10,1,10/1/2021,10/2/2021,10/3/2021,From America
+F002,Fruit,Pear,11,2,10/2/2021,10/3/2021,10/4/2021,From America
+F003,Fruit,Banana,12,3,10/3/2021,10/4/2021,10/5/2021,From America
+F004,Fruit,Peach,13,4,10/4/2021,10/5/2021,10/6/2021,From America
+F005,Fruit,Lychee,14,5,10/5/2021,10/6/2021,10/7/2021,From America
+M001,Meat,Pork,15,6,10/6/2021,10/7/2021,10/8/2021,From America
+M002,Meat,Beef,16,7,10/7/2021,10/8/2021,10/9/2021,From America
+M003,Meat,Lamb,17,8,10/8/2021,10/9/2021,10/10/2021,From America
+M004,Meat,Rib,18,9,10/9/2021,10/10/2021,10/11/2021,From America
+M005,Meat,Chicken,19,10,10/10/2021,10/11/2021,10/12/2021,From America
+M006,Meat,Fish,20,11,10/11/2021,10/12/2021,10/13/2021,From America
